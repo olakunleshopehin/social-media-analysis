@@ -11,6 +11,7 @@ This is a report provides the performance of Nexus Consulting’s social media p
 
 ## Key Performance Indicators (KPI)
 These are the KPIs for each social media platform
+
 **Facebook**
  - Total Impressions: 35M
  - Total Engagements: 637K
